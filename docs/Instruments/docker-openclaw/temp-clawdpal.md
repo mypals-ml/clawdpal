@@ -119,13 +119,13 @@ Container openclaw-openclaw-cli-run-616905ded6d2 Created
 
 🦞 OpenClaw 2026.2.6-3 (unknown) — WhatsApp automation without the "please accept our new privacy policy".
 
-Dashboard URL: http://172.18.0.3:18789/#token=fd08927d43baebccc24dd7ff588e494cce4275de82514dfa
+Dashboard URL: http://172.18.0.3:18789/#token=xxxxxxxxxx
 Copy to clipboard unavailable.
 No GUI detected. Open from your computer:
 ssh -N -L 18789:127.0.0.1:18789 user@<host>
 Then open:
 http://localhost:18789/
-http://localhost:18789/#token=fd08927d43baebccc24dd7ff588e494cce4275de82514dfa
+http://localhost:18789/#token=xxxxxxxxxx
 Docs:
 https://docs.openclaw.ai/gateway/remote
 https://docs.openclaw.ai/web/control-ui
